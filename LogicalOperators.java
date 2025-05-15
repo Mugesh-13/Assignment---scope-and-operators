@@ -1,6 +1,6 @@
 package assignment2;
 import java.util.*;
-public class LogicalOperators {
+public class BitwiseOperators {
 
 	public static void main(String[] args) {
 		Scanner scan=new Scanner(System.in);
